@@ -15,3 +15,10 @@ To build and watch:
 Helpful resources/examples:
 * https://www.tailwindtoolbox.com/
 * https://www.npmjs.com/package/tailwindcss-neumorphism
+
+## See Also:
+https://isitlupus.info/
+
+## Disclaimer:
+Neither the website isitlupus.info nor this repository constitute medical advice.
+
